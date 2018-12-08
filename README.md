@@ -1,1 +1,2 @@
 # Honeypot
+I had some issues with booting up the virtual machine, picking zones, navigating around the closed HurricaneLabs account, and setting up the honeypots.I’ve also made an error on setting up the fire wall due to some inexperience in that department. I’ve put 23 hours into this project. Due to my mistakes and confusion, the only honeypot I focused on was Dionaea. The project overall was not a success. I was unable to get my VM to run properly, disabling me from looking at the amount of attacks and malware.
